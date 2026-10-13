@@ -4,8 +4,8 @@ SE 4458 – Assignment 2 (Group 2, Playlist)
 
 | | |
 |---|---|
-| Code | _GitHub repository link_ |
-| Deployment | _Render link_/api-docs |
+| Code | https://github.com/emir-ertunc?tab=repositories |
+| Deployment | https://playlist-api-m619.onrender.com/api/v1/tracks |
 
 ## Design
 
